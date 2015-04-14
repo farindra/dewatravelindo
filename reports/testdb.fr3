@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<inherited ParentReport="baseA4V.fr3" ReportOptions.LastChange="41340.0190495602" StoreInDFM="False" PropData="044C656674038A0003546F700399010844617461736574730101063020446174615365743D22667278444244617461736574312220446174615365744E616D653D22667278686561646572220000095661726961626C65730100055374796C650100">
+  <inherited Name="Data"/>
+  <inherited Name="Page1" PaperSize="9">
+    <inherited Name="ReportTitle1">
+      <inherited Name="BaseMemo1"/>
+      <inherited Name="BaseMemo2"/>
+      <inherited Name="BasePicture1"/>
+      <inherited Name="Line1"/>
+      <inherited Name="BaseTelp1"/>
+      <inherited Name="BaseFax1"/>
+    </inherited>
+  </inherited>
+</inherited>

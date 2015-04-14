@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<inherited ParentReport="..\baseA4VDM.fr3" ReportOptions.LastChange="41342.0955901736" StoreInDFM="False" PropData="044C656674038A0003546F700399010844617461736574730101063020446174615365743D22667278444244617461736574312220446174615365744E616D653D22667278686561646572220000095661726961626C65730100055374796C650100">
+  <inherited Name="Data"/>
+  <inherited Name="Page1" PaperSize="1">
+    <inherited Name="ReportTitle1">
+      <inherited Name="DMPMemo1"/>
+      <inherited Name="BaseDMPMemo2"/>
+      <inherited Name="BaseDMPMemo3"/>
+      <inherited Name="BaseDMPMemo4"/>
+    </inherited>
+    <TfrxPageHeader Name="PageHeader1" Height="17" Left="0" Top="102" Width="796.8"/>
+    <TfrxMasterData Name="MasterData1" Height="17" Left="0" Top="153" Width="796.8" ColumnWidth="0" ColumnGap="0" RowCount="0"/>
+  </inherited>
+</inherited>
